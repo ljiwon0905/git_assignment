@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from main
+=======
+Hello from new_branch
+>>>>>>> 59ddf12 (Add hello.txt in new_branch)
